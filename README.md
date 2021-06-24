@@ -1,6 +1,6 @@
 # Welcome to my Github!👋
 
-Olá a todos, Eu sou o **Luís de Água Rosada, sou Angolano**, tenho 23 anos de idade sou **Angolano 🇦🇴 e Estudante do segundo ano** no curso de **Ciências da Computação** aplicada, na **VSUET** ✍️  na cidade de **Voronezh na Rússia** aonde resido até o momento. tive o primeiro contacto com programação no ensino medio trabalhando com Micro C, mas não aprofundei muito o meu conhecimento nessa tecnologia.
+Olá a todos, Eu sou o **Luís de Água Rosada, sou Angolano**, tenho 23 anos de idade sou **Estudante do segundo ano** no curso de **Ciências da Computação** aplicada, na **VSUET** ✍️  na cidade de **Voronezh na Rússia** aonde resido até o momento. tive o primeiro contacto com programação no ensino medio trabalhando com Micro C, mas não aprofundei muito o meu conhecimento nessa tecnologia.
 
 ###🌏**Quanto mais eu sei, mas eu sou**🧑🏿‍💻
 
